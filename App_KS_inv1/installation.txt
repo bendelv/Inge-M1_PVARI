@@ -1,0 +1,1 @@
+30, 169, SunPower_SPR_225_WHT__2007__E__, Fronius_USA__Galvo_1_5_1_208_240__208V__208V__CEC_2014_, 8
